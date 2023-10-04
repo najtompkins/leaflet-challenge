@@ -7,4 +7,5 @@
 ## Changes and Refinements
 - JavaScript: Pulled more information from the geojson source to populate a more robust popup for each earthquake, adding the location.
 - JavaScript: Added a header to the legend so that the key viewer can better understand what the color-depth information is conveying.
+- JavaScipt: Edited the calculation for the size of the circle-marker.
 - HTML: Removed commented code that went unused in the final product.
